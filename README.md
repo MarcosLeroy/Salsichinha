@@ -1,6 +1,6 @@
-# Petshop Salsichinha - Frontend
+# Petshop Salsichinha - Front-end
 
-O repositório Petshop Salsichinha faz parte dos exercícios de frontend que foi desenvolvido por Marcos Leroy durante as aulas no curso de Desenvolvimento Full Stack da Tera.
+O repositório Petshop Salsichinha faz parte dos exercícios de front-end que foi desenvolvido por Marcos Leroy durante as aulas no curso de Desenvolvimento Full Stack da Tera.
 
 O Petshop Salsichinha é um site voltado para informações sobre a raça de cachorro Salsichinha, construída usando HTML e CSS.
 
